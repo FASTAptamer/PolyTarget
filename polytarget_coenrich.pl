@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 ## Written by KKA, Sept. 10th, 2014
 ## This script is designed to identify and score sequences that coenrich across
-## PolyTarget selection trajectories. Input files should be in simple format and
+## Poly-Target selection trajectories. Input files should be in simple format and
 ## contain only those seqs that enriched or were newly/highly sampled from each 
 ## population, separated by a newline. 
 use strict;
