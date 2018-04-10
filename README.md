@@ -1,9 +1,9 @@
-# PolyTarget Coenrichment Analysis Scripts
+# Poly-Target Coenrichment Analysis Scripts
 
 Please cite the following paper and the FASTAptamer paper if you utilize these tools in anyway:
 
-- ###### **"RNA Broad-Spectrum Inhibitors of HIV Reverse Transcriptase"**
-  - Khalid K. Alam, Jonathan L. Chang, Margaret J. Lange, Phuong D.M. Nguyen, Andrew W. Sawyer, Katherine N. Wilsdon & Donald H. Burke
+- ###### **"Poly-Target Selection Identifies RNA Broad-Spectrum Inhibitors of HIV Reverse Transcriptases"**
+  - Khalid K. Alam, Jonathan L. Chang, Margaret J. Lange, Phuong D.M. Nguyen, Andrew W. Sawyer & Donald H. Burke
 - ###### **"FASTAptamer: A Bioinformatic Toolkit for High-Throughput Sequence Analysis of Combinatorial Selections."** 
   - Molecular Therapy — Nucleic Acids. 2015. 4, e230; DOI: 10.1038/mtna.2015.4
   - Khalid K. Alam, Jonathan L. Chang & Donald H. Burke
