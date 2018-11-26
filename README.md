@@ -3,8 +3,9 @@
 Please cite the following paper and the FASTAptamer paper if you utilize these tools in anyway:
 
 - ###### **"Poly-Target Selection Identifies Broad-Spectrum RNA Aptamers"**
+  - Molecular Therapy — Nucleic Acids. 2018. DOI: 10.1016/j.omtn.2018.10.010
   - Khalid K. Alam, Jonathan L. Chang, Margaret J. Lange, Phuong D.M. Nguyen, Andrew W. Sawyer & Donald H. Burke
-  - DOI: 10.1101/302745
+
 - ###### **"FASTAptamer: A Bioinformatic Toolkit for High-Throughput Sequence Analysis of Combinatorial Selections."** 
   - Molecular Therapy — Nucleic Acids. 2015. 4, e230; DOI: 10.1038/mtna.2015.4
   - Khalid K. Alam, Jonathan L. Chang & Donald H. Burke
